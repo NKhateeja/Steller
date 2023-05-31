@@ -277,6 +277,7 @@ public class ApplyDebitCardTest {
 //						
 //		//close the browser
 //		driver.close();
+		//thankyou
 	}
 
 }
