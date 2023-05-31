@@ -22,6 +22,8 @@ import com.banking.objectrepository.UserHomePage;
 public class ApplyDebitCardTest {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
+		
+		//welcome
 		//Open the browser
 		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
 		WebDriver driver;
