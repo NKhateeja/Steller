@@ -21,6 +21,7 @@ import com.banking.objectrepository.UserHomePage;
 public class CreditCustomerTest {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
+		//welcome to online banking
 		//Open the browser
 		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
 		WebDriver driver;
